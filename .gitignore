@@ -17,3 +17,5 @@ Code/data_jam.parquet
 Code/data_jam.parquet
 /old
 /Referensi
+/Code/__pycache__
+*.ini
